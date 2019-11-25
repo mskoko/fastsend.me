@@ -1,0 +1,45 @@
+.dropdown .dropdown-menu {
+    margin-top: 0!important;
+    padding: 10px 5px 0px 5px!important;
+}
+
+.bootstrap-table .fixed-table-toolbar .bs-bars, .bootstrap-table .fixed-table-toolbar .search, .bootstrap-table .fixed-table-toolbar .columns {
+    position: relative;
+    margin-top: 0px!important;
+    margin-bottom: 20px!important;
+    width: 100%!important;
+}
+
+/* Video */
+.plyr--video {
+	border-radius: 5px;
+}
+.plyr__progress {
+	display: block;
+}
+.plyr__volume {
+	display: block;
+}
+
+/* input/select */
+.sVideo input,
+.sVideo select {
+	cursor: pointer;
+}
+
+/* SELECT 2 PLUGIN */
+.select2-container .select2-selection--single {
+    box-sizing: border-box;
+    cursor: pointer;
+    display: block;
+    height: auto!important;
+    user-select: none;
+    -webkit-user-select: none;
+    padding: 3px 10px;
+}
+.select2-search--dropdown .select2-search__field {
+    padding: 2px!important;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 5px;
+}

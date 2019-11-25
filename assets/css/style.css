@@ -1,0 +1,92 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	padding: 0;
+    margin: 0;
+    background: #fff;
+}
+
+
+.rightNav {
+	float: right;
+}
+.rightNav li {
+	display: inline-block;
+	padding: 0px 0px;
+}
+.rightNav li a {
+	color: #444;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.card .card-body {
+	/*margin: 0;
+	padding: 0;*/
+	text-align: justify;
+}
+
+/* Training modal - popup bug fix */
+.modal-body {
+    max-height: calc(100vh - 150px);
+    overflow-y: auto;
+}
+
+/* News */
+.g_t_post {
+	cursor: pointer;
+	
+	margin-bottom: 30px;
+}
+
+/* FILE PAGE */
+/* File view */
+.file_view .file_img {
+	width: 100%;
+	height: auto;
+
+	border-radius: 5px;
+	border: 4px double #000;
+}
+.file_view p {
+	text-align: justify;
+}
+.file_view .rar_zip {
+	margin-top: 20px;
+	margin-bottom: 30px;
+
+	/*width: 100%;
+	height: auto;*/
+
+	text-align: center;
+}
+
+.file_stats img {
+	width: 100%;
+	height: auto;
+}
+.file_stats h1 {
+	font-size: 2.5em;
+}
+
+/* File action */
+.f_action {
+
+}
+.f_action li {
+	display: block;
+	padding: 10px;
+}
+.f_action li a {
+	width: 100%;
+}
+
+
+
+/* FOOTER */
+footer {
+	margin-top: 100px;
+}
