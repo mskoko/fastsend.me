@@ -1,0 +1,7 @@
+{
+	"@context": "http://schema.org",
+	"@id": "http://fastsend.me/#webpage",
+	"@type": "WebPage",
+	"url": "http://fastsend.me/",
+	"name": "Fastsend.me"
+}
