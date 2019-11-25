@@ -1,6 +1,6 @@
-# fastsend.me
+# FastSend.me
 fastsend.me
 
 
 
-[mskoko.me] [@mskoko]
+[@mskoko] [http://mskoko.me]
